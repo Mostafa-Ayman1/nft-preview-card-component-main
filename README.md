@@ -62,5 +62,5 @@ use the display: block to get rid of the white space
 
 ## Author
 
-- Frontend Mentor - [@Mostafa-Ayman1]
+- Frontend Mentor [@Mostafa-Ayman1]
 
